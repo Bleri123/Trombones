@@ -80,8 +80,11 @@ h2 {
     align-items: center;
     justify-content: center;
     height: 125px;
-    width: 20vw;
+    width: 20vw !important; 
     color: darkorange;
+    width: 1000px;
+}
+.features{
     width: 1000px;
 }
 .fire {
