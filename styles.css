@@ -78,12 +78,9 @@ h2 {
 #Features .icon {
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: flex-start;
     height: 125px;
     color: darkorange;
-}
-.icon{
-    width: 228px;
 }
 .fire,
 .truck,
