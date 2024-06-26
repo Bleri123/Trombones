@@ -118,7 +118,7 @@ p {
 .uli {
     display: flex;
     flex-direction: column;
-    gap: 7px;
+    gap: 12px;
     font-size: 17px;
     width: 200px;
 }
@@ -126,7 +126,7 @@ p {
 .level {
     background-color: white;
     font-size: 18px;
-    padding: 7px;
+    padding: 12px;
     width: 100%;
 }
 
