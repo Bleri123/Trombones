@@ -80,9 +80,8 @@ h2 {
     align-items: center;
     justify-content: center;
     height: 125px;
-    width: 20vw !important; 
+    width: 20vw !important;
     color: darkorange;
-    width: 1000px;
 }
 
 .fire {
@@ -100,7 +99,7 @@ h2 {
 
 .grid {
     display: flex;
-
+    width: 1000px;
 }
 
 .divider {
