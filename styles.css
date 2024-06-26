@@ -167,6 +167,7 @@ p {
     margin-top: 60px;
     display: flex;
     width: 1000%;
+    justify-content: center;
 }
 
 .para1 {
