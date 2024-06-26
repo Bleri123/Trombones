@@ -86,13 +86,7 @@ h2 {
 .icon{
     width: 228px;
 }
-
-.fire {
-    width: 90px;
-    height: 90px;
-    margin-right: 15px;
-}
-
+.fire,
 .truck,
 .battery {
     width: 70px;
