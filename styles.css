@@ -77,9 +77,8 @@ h2 {
 
 #Features .icon {
     display: flex;
-    align-items: center;
+    align-items: start;
     justify-content: flex-start;
-    height: 125px;
     color: darkorange;
 }
 .fire,
