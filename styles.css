@@ -83,6 +83,9 @@ h2 {
     width: 20vw !important;
     color: darkorange;
 }
+.icon{
+    width: 228px;
+}
 
 .fire {
     width: 90px;
