@@ -170,6 +170,6 @@ p {
     background-color: #000;
     color: white;
     display: flex;
-    align-items: end;
+    align-items: center;
     justify-content: center;
 }
