@@ -166,7 +166,7 @@ p {
 .Pricing {
     margin-top: 60px;
     display: flex;
-    width: 1000%;
+    width: 100%;
     justify-content: center;
 }
 
